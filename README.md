@@ -11,8 +11,8 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 - Nome: Giovanna Luisa
 - Matricula: 923826
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Proposta de projeto escolhida: Restaurantes/pratos
+- Breve descrição sobre seu projeto: Site que apresenta restaurantes e pratos, com o objetivo de facilitar a busca e visualização de opções gastronômicas.
 
 
 ## Print do(s) wireframe(s) criado
