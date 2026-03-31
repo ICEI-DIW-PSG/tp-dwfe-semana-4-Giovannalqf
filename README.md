@@ -9,8 +9,8 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Giovanna Luisa
+- Matricula: 923826
 - Proposta de projeto escolhida:
 - Breve descrição sobre seu projeto:
 
@@ -24,4 +24,5 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+<< <img width="1908" height="894" alt="screenshot-1774980627831" src="https://github.com/user-attachments/assets/9a9f63c9-867f-4052-8482-23e02479c8e0" />
+  >>
