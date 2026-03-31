@@ -1,3 +1,65 @@
 body {
-    background-color: aquamarine;
+    margin: 0; /* box-model */
+    font-family: Arial;
 }
+
+/* HEADER */
+.header {
+    background: orange;
+    padding: 10px; /* box-model */
+    display: flex; /* display */
+    justify-content: space-between;
+}
+
+/* MENU */
+.menu a {
+    margin: 20px; /* box-model */
+    text-decoration: none;
+    color: white;
+}
+
+/*BANNER*/
+.banner {
+    background: orange;
+    
+}
+
+/* FORM */
+.busca {
+    padding: 10px;
+}
+
+.form input {
+    margin: 5px; /* box-model */
+    padding: 5px;
+}
+
+/* SEÇÕES */
+.restaurantes, .pratos {
+    padding: 10px;
+    display: flex;
+    gap: 20px;
+}
+
+/* CARDS */
+.card {
+    margin: 10px; /* box-model */
+    padding: 10px;
+    background: #eee;
+    display: inline-block; /* display */
+    position: relative; /* position */
+}
+
+/* SELETOR COMBINADO */
+.card img {
+    display: block;
+}
+
+/* FOOTER */
+.footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
